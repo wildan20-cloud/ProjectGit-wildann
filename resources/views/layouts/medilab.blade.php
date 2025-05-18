@@ -40,7 +40,7 @@
             </select>
           </div>
           <div>
-            <label class="block text-sm font-medium">Tanggal Lahir</label>
+            <label class="block text-sm font-medium">Tanggal</label>
             <input type="date" name="birth" required class="w-full border px-3 py-2 rounded" />
           </div>
           <div>
